@@ -2,8 +2,17 @@ body {
   margin: 0;
 }
 
+h1,
+p {
+  margin: 0;
+}
+
 .top-container {
   background: linear-gradient(119.54deg, #ffebcd 8.57%, #ff8b72 91.34%);
+}
+
+.donkey {
+  width: 100%;
 }
 
 .frong {
