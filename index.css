@@ -7,6 +7,11 @@ p {
   margin: 0;
 }
 
+p {
+  /* text-align: center; */
+  /* font-size: 1.1rem; */
+}
+
 .top-container {
   background: linear-gradient(119.54deg, #ffebcd 8.57%, #ff8b72 91.34%);
   padding: 4.5rem 3.5rem;
@@ -25,16 +30,12 @@ p {
   font-size: 2.2rem;
 }
 
-.title-container p {
-  font-size: 1.1rem;
-  text-align: center;
-}
-
 .donkey {
   width: 100%;
   height: 233px;
   object-fit: cover;
   border-radius: 1rem;
+  box-sizing: border-box;
   border: 3px solid #000000;
   box-shadow: 4px 4px 0px 0px #000000;
 }
@@ -56,4 +57,9 @@ p {
   flex-direction: column;
   gap: 4.5rem;
   margin-top: 4.5rem;
+}
+
+.bottom-container h1 {
+  font-size: 2rem;
+  margin: 1rem 0;
 }
