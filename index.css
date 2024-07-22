@@ -15,7 +15,7 @@ p {
 .donkey {
   width: 100%;
   height: 233px;
-  /* object-fit: cover; */
+  object-fit: cover;
 }
 
 .frong {
