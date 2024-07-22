@@ -55,4 +55,5 @@ p {
   display: flex;
   flex-direction: column;
   gap: 4.5rem;
+  margin-top: 4.5rem;
 }
