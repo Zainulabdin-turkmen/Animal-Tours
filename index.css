@@ -54,5 +54,5 @@ p {
 .Safety-TripPix-container {
   display: flex;
   flex-direction: column;
-  /* gap: 4.5rem; */
+  gap: 4.5rem;
 }
