@@ -102,4 +102,24 @@ p {
   .frong {
     margin-top: 5rem;
   }
+
+  .bottom-container {
+    text-align: start;
+    /* padding: 0 6rem; */
+  }
+  .bottom-container p {
+    text-align: start;
+  }
+
+  .Safety-TripPix-container {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    gap: 6rem;
+  }
+
+  .beat {
+    height: 47px;
+    width: 47px;
+  }
 }
