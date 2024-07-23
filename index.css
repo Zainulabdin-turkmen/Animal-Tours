@@ -106,6 +106,8 @@ p {
   .bottom-container {
     text-align: start;
     padding: 0 6rem;
+    margin-top: 6.7rem;
+    /* margin-bottom: 5rem; */
   }
   .bottom-container p {
     text-align: start;
