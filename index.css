@@ -66,6 +66,7 @@ p {
 
 @media only screen and (min-width: 830px) {
   .top-container {
-    padding: 0 6rem;
+    padding: 4.5rem 6rem;
+    padding-bottom: 3.3rem;
   }
 }
