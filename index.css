@@ -72,7 +72,8 @@ p {
 
   .imgs-container {
     display: flex;
-    justify-content: space-between;
+    gap: 2rem;
+    justify-content: center;
   }
   .frong,
   .donkey,
