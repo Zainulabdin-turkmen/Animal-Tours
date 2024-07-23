@@ -76,6 +76,15 @@ p {
     justify-content: center;
     margin-bottom: -5rem;
   }
+  .top-container h1 {
+    font-size: 4.1rem;
+  }
+
+  .top-container p {
+    text-align: start;
+    /* font-size: 1.5rem; */
+    /* width: 70%; */
+  }
 
   .frong,
   .donkey,
