@@ -74,7 +74,9 @@ p {
     display: flex;
     gap: 2rem;
     justify-content: center;
+    /* margin-bottom: -5rem; */
   }
+
   .frong,
   .donkey,
   .dog {
@@ -86,5 +88,9 @@ p {
     border: 3px solid #000000;
     border-radius: 1rem;
     box-sizing: border-box;
+  }
+
+  .frong {
+    /* margin-top: 5rem; */
   }
 }
