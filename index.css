@@ -69,4 +69,20 @@ p {
     padding: 4.5rem 6rem;
     padding-bottom: 3.3rem;
   }
+
+  .imgs-container {
+    display: flex;
+  }
+  .frong,
+  .donkey,
+  .dog {
+    display: unset;
+    /* width: 195px; */
+    /* height: 150px; */
+    /* object-fit: cover; */
+    /* box-shadow: 4px 4px 0px 0px #000000; */
+    /* border: 3px solid #000000; */
+    /* border-radius: 1rem; */
+    /* box-sizing: border-box; */
+  }
 }
