@@ -117,21 +117,58 @@ p {
     display: flex;
     flex-direction: row;
     align-items: end;
-    gap: 6rem;
+    gap: 5rem;
   }
 
   .beat {
     height: 47px;
     width: 47px;
   }
+
+  .donkey-frong-container {
+    display: flex;
+    gap: 2rem;
+    align-items: start;
+  }
 }
 @media only screen and (min-width: 1300px) {
   .top-container {
     padding-left: 11rem;
     flex-direction: row;
+    align-items: center;
+    /* gap: 0; */
   }
 
   .bottom-container {
-    padding-left: 11rem;
+    /* padding-left: 11rem; */
+  }
+
+  .title-container {
+    /* flex: 1; */
+  }
+
+  .donkey-frong-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .frong {
+    margin: 0;
+  }
+  .imgs-container {
+    /* align-items: center; */
+    /* flex: 0.8; */
+  }
+
+  .bottom-container {
+    /* align-items: center; */
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* margin-top: 9rem; */
+    /* gap: 5rem; */
+  }
+  .Safety-TripPix-container {
+    /* margin-top: 0; */
   }
 }
