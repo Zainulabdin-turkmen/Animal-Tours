@@ -162,7 +162,7 @@ p {
   }
 
   .bottom-container {
-    /* align-items: center; */
+    align-items: center;
     /* display: flex; */
     /* flex-direction: row; */
     /* margin-top: 9rem; */
