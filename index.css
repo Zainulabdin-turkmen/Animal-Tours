@@ -136,7 +136,7 @@ p {
     padding-left: 11rem;
     flex-direction: row;
     align-items: center;
-    /* gap: 0; */
+    gap: 0;
   }
 
   .bottom-container {
