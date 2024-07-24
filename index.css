@@ -158,7 +158,7 @@ p {
   }
   .imgs-container {
     align-items: center;
-    /* flex: 0.8; */
+    flex: 0.8;
   }
 
   .bottom-container {
