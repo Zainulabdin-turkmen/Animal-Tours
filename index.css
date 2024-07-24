@@ -165,7 +165,7 @@ p {
     align-items: center;
     display: flex;
     flex-direction: row;
-    /* margin-top: 9rem; */
+    margin-top: 9rem;
     /* gap: 5rem; */
   }
   .Safety-TripPix-container {
