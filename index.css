@@ -157,7 +157,7 @@ p {
     margin: 0;
   }
   .imgs-container {
-    /* align-items: center; */
+    align-items: center;
     /* flex: 0.8; */
   }
 
