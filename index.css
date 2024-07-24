@@ -126,4 +126,7 @@ p {
   }
 }
 @media only screen and (min-width: 1300px) {
+  .top-container {
+    padding-left: 11rem;
+  }
 }
